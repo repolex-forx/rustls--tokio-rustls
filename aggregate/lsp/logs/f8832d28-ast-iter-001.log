@@ -1,0 +1,7 @@
+[2026-11-22T11:39:34Z] === AST ITERATION 1 START | repo=rustls/tokio-rustls sha=f8832d28 ===
+[2026-11-22T11:39:34Z] [iter=1] PHASE START: ast repo=rustls/tokio-rustls sha=f8832d28
+[2026-11-22T11:39:34Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T11:39:45Z] [iter=1] AST chunks built count=1 triples=139020
+[2026-11-22T11:39:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f8832d28ce5688f101368e34fc6b49899a8d4293/.complete
+[2026-11-22T11:39:45Z] [iter=1] PHASE END: ast elapsed_s=11 elapsed_min=0.2
+[2026-11-22T11:39:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
