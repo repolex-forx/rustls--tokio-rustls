@@ -1,0 +1,11 @@
+{
+  "org": "rustls",
+  "repo": "tokio-rustls",
+  "versions": [
+    {
+      "commit": "f8832d28ce5688f101368e34fc6b49899a8d4293",
+      "tag": "v/0.26.5",
+      "parsed_at": "2026-11-22T11:45:20.399052+00:00"
+    }
+  ]
+}
